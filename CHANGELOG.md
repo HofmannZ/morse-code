@@ -1,3 +1,13 @@
-## [0.0.1] - TODO: Add release date.
+## [0.1.0] - 16 June 2018
 
-* TODO: Describe initial release.
+### Breaking change
+
+n/a
+
+#### Fixes / Enhancements
+
+- Initial version of the `Morse` class.
+
+#### Docs
+
+- Initial documentation.
