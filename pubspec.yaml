@@ -1,11 +1,13 @@
 name: morse_code
 description: A library that converts morse code encoded strings to regular decoded strings.
 version: 0.1.1
-author: Zino Hofmann <zino@hofmann.amsterdam>
+authors: 
+- Zino Hofmann <zino@hofmann.amsterdam>
+- Muhammet Balsoy
 homepage: https://github.com/HofmannZ/morse-code
 
 environment:
-  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+  sdk: ">=1.0.0 <3.0.0"
 
 dependencies:
   flutter:

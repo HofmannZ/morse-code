@@ -13,7 +13,7 @@ Fist depend on the libary by ading this to your package's `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  morse_code: ^0.1.0
+  morse_code: ^0.1.1
 ```
 
 Now inside your Dart code you can import it.
