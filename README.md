@@ -13,13 +13,13 @@ Fist depend on the libary by ading this to your package's `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  morse_code: ^0.1.1
+  flutter_morse: ^0.1.1
 ```
 
 Now inside your Dart code you can import it.
 
 ```dart
-import 'package:morse_code/morse_code.dart';
+import 'package:flutter_morse/flutter_morse.dart';
 ```
 
 For this example we're going to use the following morse code string:
@@ -53,7 +53,7 @@ String decodedMessage =  new Morse().decode(encodedMessage);
 Feel free to open a PR with any suggetions!
 
 [version-badge]: https://img.shields.io/badge/pub-v0.1.1-orange.svg
-[package]: https://pub.dartlang.org/packages/morse_code
+[package]: https://pub.dartlang.org/packages/flutter_morse
 [license-badge]: https://img.shields.io/github/license/fatihbalsoy/morse-code.svg?style=flat-square
 [license]: https://github.com/fatihbalsoy/morse-code/blob/master/LICENSE
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square

@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:morse_code/morse_code.dart';
+import 'package:flutter_morse/flutter_morse.dart';
 
 void main() {
   final String encodedMessage = '.... . .-.. .-.. --- / .-- --- .-. .-.. -..';
