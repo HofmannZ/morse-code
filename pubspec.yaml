@@ -1,10 +1,8 @@
 name: morse_code
 description: A library that converts morse code encoded strings to regular decoded strings.
 version: 0.1.1
-authors: 
-- Zino Hofmann <zino@hofmann.amsterdam>
-- Muhammet Balsoy
-homepage: https://github.com/HofmannZ/morse-code
+author: Muhammet Balsoy
+homepage: https://github.com/fatihbalsoy/morse-code
 
 environment:
   sdk: ">=1.0.0 <3.0.0"
