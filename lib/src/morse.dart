@@ -1,6 +1,6 @@
-/// 
+///
 /// The [Morse] class can be used to decode morse code to readable text and back.
-/// 
+///
 class Morse {
   /// The string of text that will be used to cipher morse code
   String _message;
