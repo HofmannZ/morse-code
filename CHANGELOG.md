@@ -1,18 +1,27 @@
+## [0.1.2] - 3 March 2019
+
+#### Features
+
+- Encode a string of text to morse code
+- Added 18 special characters: `!@$&()_+-=;:'",./?`
+
+#### Fixes / Enhancements
+
+- Decoding morse code will return lowercased letters rather than uppercased letters
+- Encode either uppercase and lowercase letters
+- Restructured character map.
+
+#### Docs
+
+- Extended documentation to further explain the purpose of each function.
+
 ## [0.1.1] - 28 February 2019
-
-### Breaking change
-
-n/a
 
 #### Fixes / Enhancements
 
 - Upgraded dependencies for compatibility with Dart 2.
 
 ## [0.1.0] - 16 June 2018
-
-### Breaking change
-
-n/a
 
 #### Fixes / Enhancements
 
