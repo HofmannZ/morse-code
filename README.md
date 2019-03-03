@@ -28,7 +28,7 @@ For this example we're going to use the following morse code string:
 final String encodedMessage = '.... . .-.. .-.. --- / .-- --- .-. .-.. -..';
 ```
 
-There are two ways to decode a morse code string. Either provide de encoded string as an argument to the constructor, and call the `decode` method.
+There are two ways to decode a morse code string. Either provide the encoded string as an argument to the constructor, and call the `decode` method.
 
 ```dart
 final Morse morse = new Morse(encodedMessage);
@@ -46,6 +46,17 @@ String decodedMessage = morse.decode(encodedMessage);
 
 // Or again combine the two, for more compact code:
 String decodedMessage =  new Morse().decode(encodedMessage);
+```
+
+You can also use the `encode` method to convert text to morse code.
+
+```dart
+final String message = 'Hello World';
+final Morse morse = new Morse(message);
+String encodedMessage = morse.encode();
+
+// Or combine the two, for more compact code:
+String encodedMessage =  new Morse(message).encode();
 ```
 
 ## Contributing
