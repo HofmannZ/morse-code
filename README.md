@@ -65,11 +65,11 @@ Feel free to open a PR with any suggetions!
 
 [version-badge]: https://img.shields.io/badge/pub-v0.1.2+2-orange.svg
 [package]: https://pub.dartlang.org/packages/flutter_morse
-[license-badge]: https://img.shields.io/github/license/fatihbalsoy/morse-code.svg?style=flat-square
-[license]: https://github.com/fatihbalsoy/morse-code/blob/master/LICENSE
+[license-badge]: https://img.shields.io/github/license/fatihbalsoy/flutter-morse.svg?style=flat-square
+[license]: https://github.com/fatihbalsoy/flutter-morse/blob/master/LICENSE
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
 [prs]: http://makeapullrequest.com
-[github-watch-badge]: https://img.shields.io/github/watchers/fatihbalsoy/morse-code.svg?style=social
-[github-watch]: https://github.com/fatihbalsoy/morse-code/watchers
-[github-star-badge]: https://img.shields.io/github/stars/fatihbalsoy/morse-code.svg?style=social
-[github-star]: https://github.com/fatihbalsoy/morse-code/stargazers
+[github-watch-badge]: https://img.shields.io/github/watchers/fatihbalsoy/flutter-morse.svg?style=social
+[github-watch]: https://github.com/fatihbalsoy/flutter-morse/watchers
+[github-star-badge]: https://img.shields.io/github/stars/fatihbalsoy/flutter-morse.svg?style=social
+[github-star]: https://github.com/fatihbalsoy/flutter-morse/stargazers

@@ -5,7 +5,7 @@ class Morse {
   /// The string of text that will be used to cipher morse code
   String _message;
 
-  /// The [Morse] class can be used to decode morse code to readable text and back.
+  /// The [Morse] contructor can be used to initialize [Morse] with a string of text to later decode or encode.
   Morse([this._message]);
 
   /// Decodes the given morse code to human readable text.
