@@ -63,7 +63,7 @@ String encodedMessage =  new Morse(message).encode();
 
 Feel free to open a PR with any suggetions!
 
-[version-badge]: https://img.shields.io/badge/pub-v0.1.3+3-orange.svg
+[version-badge]: https://img.shields.io/pub/v/morse_code.svg?style=flat-square
 [package]: https://pub.dartlang.org/packages/morse_code
 [license-badge]: https://img.shields.io/github/license/HofmannZ/morse-code.svg?style=flat-square
 [license]: https://github.com/HofmannZ/morse-code/blob/master/LICENSE
