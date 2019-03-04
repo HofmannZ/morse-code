@@ -1,3 +1,11 @@
+## [0.1.3] - 3 March 2019
+
+#### Enhancements
+
+- Increased support until Dart 3.0
+- Package doesn't rely on Flutter anymore (Available for web development)
+- Thanks to u/qualverse for the quick notice!
+
 ## [0.1.2] - 3 March 2019
 
 #### Features

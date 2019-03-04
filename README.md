@@ -7,13 +7,17 @@
 [![Watch on GitHub][github-watch-badge]][github-watch]
 [![Star on GitHub][github-star-badge]][github-star]
 
+## Notice
+
+Even though the name of the package is `flutter_morse`, the package has been recently updated to work with both Web and Flutter development.
+
 ## Usage
 
 Fist depend on the libary by ading this to your package's `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_morse: ^0.1.2+2
+  flutter_morse: ^0.1.3
 ```
 
 Now inside your Dart code you can import it.
@@ -63,7 +67,7 @@ String encodedMessage =  new Morse(message).encode();
 
 Feel free to open a PR with any suggetions!
 
-[version-badge]: https://img.shields.io/badge/pub-v0.1.2+2-orange.svg
+[version-badge]: https://img.shields.io/badge/pub-v0.1.3-orange.svg
 [package]: https://pub.dartlang.org/packages/flutter_morse
 [license-badge]: https://img.shields.io/github/license/fatihbalsoy/flutter-morse.svg?style=flat-square
 [license]: https://github.com/fatihbalsoy/flutter-morse/blob/master/LICENSE
