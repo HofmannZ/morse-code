@@ -17,7 +17,7 @@ Fist depend on the libary by ading this to your package's `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_morse: ^0.1.3
+  flutter_morse: ^0.1.3+1
 ```
 
 Now inside your Dart code you can import it.
@@ -67,7 +67,7 @@ String encodedMessage =  new Morse(message).encode();
 
 Feel free to open a PR with any suggetions!
 
-[version-badge]: https://img.shields.io/badge/pub-v0.1.3-orange.svg
+[version-badge]: https://img.shields.io/badge/pub-v0.1.3+1-orange.svg
 [package]: https://pub.dartlang.org/packages/flutter_morse
 [license-badge]: https://img.shields.io/github/license/fatihbalsoy/flutter-morse.svg?style=flat-square
 [license]: https://github.com/fatihbalsoy/flutter-morse/blob/master/LICENSE
