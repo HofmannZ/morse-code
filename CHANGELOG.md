@@ -4,7 +4,6 @@
 
 - Increased support until Dart 3.0
 - Package doesn't rely on Flutter anymore (Available for web development)
-- Thanks to u/qualverse for the quick notice!
 
 ## [0.1.2] - 3 March 2019
 
@@ -28,7 +27,6 @@
 #### Fixes / Enhancements
 
 - Upgraded dependencies for compatibility with Dart 2.
-- Forked @HofmannZ's repository to continue maintaining his package and add new features.
 
 ## [0.1.0] - 16 June 2018
 

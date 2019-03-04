@@ -1,6 +1,6 @@
 import 'package:test/test.dart';
 
-import 'package:flutter_morse/flutter_morse.dart';
+import 'package:morse_code/morse_code.dart';
 
 void main() {
   final _morse = new Morse();

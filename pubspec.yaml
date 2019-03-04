@@ -1,8 +1,8 @@
-name: flutter_morse
+name: morse_code
 description: A simple library that converts morse code to regular strings and encode strings to morse code.
-version: 0.1.3+2
-author: Muhammet Balsoy <fatih@balsoy.com>
-homepage: https://github.com/fatihbalsoy/morse-code
+version: 0.1.3+3
+author: Zino Hofmann <zino@hofmann.amsterdam>
+homepage: https://github.com/HofmannZ/morse-code
 
 environment:
   sdk: ">=0.0.0 <3.0.0"

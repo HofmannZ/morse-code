@@ -1,4 +1,4 @@
-import 'package:flutter_morse/flutter_morse.dart';
+import 'package:morse_code/morse_code.dart';
 
 main(){
   ////////////

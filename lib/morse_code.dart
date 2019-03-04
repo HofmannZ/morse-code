@@ -1,3 +1,3 @@
-library flutter_morse;
+library morse_code;
 
 export './src/morse.dart';

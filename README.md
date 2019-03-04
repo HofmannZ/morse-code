@@ -7,23 +7,19 @@
 [![Watch on GitHub][github-watch-badge]][github-watch]
 [![Star on GitHub][github-star-badge]][github-star]
 
-## Notice
-
-Even though the name of the package is `flutter_morse`, the package has been recently updated to work with both Web and Flutter development.
-
 ## Usage
 
-Fist depend on the libary by ading this to your package's `pubspec.yaml`:
+Fist depend on the libary by adding this to your package's `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  flutter_morse: ^0.1.3+2
+  morse_code: ^0.1.3+3
 ```
 
 Now inside your Dart code you can import it.
 
 ```dart
-import 'package:flutter_morse/flutter_morse.dart';
+import 'package:morse_code/morse_code.dart';
 ```
 
 For this example we're going to use the following morse code string:
@@ -67,13 +63,13 @@ String encodedMessage =  new Morse(message).encode();
 
 Feel free to open a PR with any suggetions!
 
-[version-badge]: https://img.shields.io/badge/pub-v0.1.3+2-orange.svg
-[package]: https://pub.dartlang.org/packages/flutter_morse
-[license-badge]: https://img.shields.io/github/license/fatihbalsoy/flutter-morse.svg?style=flat-square
-[license]: https://github.com/fatihbalsoy/flutter-morse/blob/master/LICENSE
+[version-badge]: https://img.shields.io/badge/pub-v0.1.3+3-orange.svg
+[package]: https://pub.dartlang.org/packages/morse_code
+[license-badge]: https://img.shields.io/github/license/HofmannZ/morse-code.svg?style=flat-square
+[license]: https://github.com/HofmannZ/morse-code/blob/master/LICENSE
 [prs-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square
 [prs]: http://makeapullrequest.com
-[github-watch-badge]: https://img.shields.io/github/watchers/fatihbalsoy/flutter-morse.svg?style=social
-[github-watch]: https://github.com/fatihbalsoy/flutter-morse/watchers
-[github-star-badge]: https://img.shields.io/github/stars/fatihbalsoy/flutter-morse.svg?style=social
-[github-star]: https://github.com/fatihbalsoy/flutter-morse/stargazers
+[github-watch-badge]: https://img.shields.io/github/watchers/HofmannZ/morse-code.svg?style=social
+[github-watch]: https://github.com/HofmannZ/morse-code/watchers
+[github-star-badge]: https://img.shields.io/github/stars/HofmannZ/morse-code.svg?style=social
+[github-star]: https://github.com/HofmannZ/morse-code/stargazers
